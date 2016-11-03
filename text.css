@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+
+}
+.task{
+  text-decoration: line-through;
+}
+li{
+  list-style: none;
+}
