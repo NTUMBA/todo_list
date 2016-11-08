@@ -2,9 +2,28 @@ body{
   text-align: center;
 
 }
-.task{
-  text-decoration: line-through;
+h1{
+  border: 2px solid blue;
 }
+
 li{
   list-style: none;
+}
+section{
+  background-color:aliceblue;
+  margin: 0 auto;
+  width: 70%;
+}
+
+.liste{
+  border: 3px dotted deepskyblue;
+  background-color:  lightcyan;
+  color: blue;
+
+}
+.task{
+  /*text-decoration: line-through;*/
+  border: 2px
+  background-color:lemonchiffon;
+  color: black;
 }
